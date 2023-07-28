@@ -1,0 +1,2 @@
+Real-Time Chat Web Application using Socket.io, Node.js, Express, HTML, and CSS                                                                              
+This repository contains the code for a real-time chat web application built using Socket.io, Node.js, Express, HTML, and CSS. The application allows users to engage in live chat conversations with each other in real-time, providing a seamless and interactive communication experience.<img width="1079" alt="chat2" src="https://github.com/dipesh6264/chatingwebapp/assets/134261406/03044c6a-6278-46c1-ade1-75a2782e71bc">
